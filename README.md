@@ -6,7 +6,7 @@ C++ ve Dear ImGui kullanılarak geliştirilmiş, işletim sistemlerindeki kilitl
 ![Proje Ekran Görüntüsü](ArayuzGorseli.png)
 
 ## 🛠️ Kullanılan Teknolojiler
-* **Dil:** C++17
+* **Dil:** C++
 * **Arayüz (GUI):** Dear ImGui
 * **Grafik / Pencere Kütüphanesi:** OpenGL / GLFW (veya Win32)
 
